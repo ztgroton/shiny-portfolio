@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Zachary Groton</title>
-    <link>http://localhost:4321/designs/</link>
+    <link>//localhost:4321/designs/</link>
     <description>Recent content in Designs on Zachary Groton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Zachary Groton</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/designs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/designs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoshop</title>
-      <link>http://localhost:4321/designs/photoshop/</link>
+      <link>//localhost:4321/designs/photoshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/designs/photoshop/</guid>
+      <guid>//localhost:4321/designs/photoshop/</guid>
       <description></description>
     </item>
   </channel>
